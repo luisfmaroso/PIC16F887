@@ -1,0 +1,6 @@
+# MPLAB
+debug/
+
+# Proteus
+Project Backups/
+*.workspace

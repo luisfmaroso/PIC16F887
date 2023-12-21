@@ -1,0 +1,55 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"8 C:\Projetos\pic16f887\03-Interrupts.X\main.c
+[v _ISR ISR `II(v  1 e 1 0 ]
+"36
+[v _main main `(v  1 e 1 0 ]
+"228 C:/Program Files/Microchip/MPLABX/v6.15/packs/Microchip/PIC16Fxxx_DFP/1.4.149/xc8\pic\include\proc\pic16f887.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"352
+[v _PORTD PORTD `VEuc  1 e 1 @8 ]
+"1478
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1602
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+"2416
+[v _IOCB IOCB `VEuc  1 e 1 @150 ]
+"3449
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"3900
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"3927
+[v _INTE INTE `VEb  1 e 0 @92 ]
+"4131
+[v _RBIE RBIE `VEb  1 e 0 @91 ]
+"4134
+[v _RBIF RBIF `VEb  1 e 0 @88 ]
+"4668
+[v _nRBPU nRBPU `VEb  1 e 0 @1039 ]
+"36 C:\Projetos\pic16f887\03-Interrupts.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"54
+} 0
+"8
+[v _ISR ISR `II(v  1 e 1 0 ]
+{
+"24
+[v ISR@i i `i  1 a 2 5 ]
+"10
+[v ISR@interruptCount interruptCount `uc  1 s 1 interruptCount ]
+"11
+[v ISR@lastRB lastRB `uc  1 s 1 lastRB ]
+"34
+} 0
