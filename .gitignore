@@ -1,5 +1,7 @@
 # MPLAB
 debug/
+build/
+dist/
 
 # Proteus
 Project Backups/
