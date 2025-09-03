@@ -2,3 +2,4 @@
 * text=auto
 
 */*/Makefile linguist-generated
+*.mk linguist-generated
