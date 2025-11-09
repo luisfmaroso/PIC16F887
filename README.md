@@ -1,2 +1,2 @@
 # pic16f887
- PIC16F887 examples using MPLAB and simulations with Proteus.
+ PIC16F887 exercises from university. Using MPLAB with XC8 compiler and simulations with Proteus.
